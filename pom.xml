@@ -30,7 +30,7 @@
         <wro4j.version>1.8.0</wro4j.version>
 
         <!-- Java EE / Java SE dependencies -->
-        <tomcat.version>9.0.12</tomcat.version>
+        <tomcat.version>9.0.24</tomcat.version>
         <jaxb.version>2.3.0</jaxb.version>
         <activation.version>1.1.1</activation.version>
         <servlet-api.version>4.0.1</servlet-api.version>
